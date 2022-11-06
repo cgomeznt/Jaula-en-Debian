@@ -1,6 +1,6 @@
 
 Como crear una Jaula en Debian (chroot)
-====================================
+=====================================
 
 Preparamos el estación
 ++++++++++++++++++++
